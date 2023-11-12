@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.exe
+D:\codes\work\first\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.deps.json
+D:\codes\work\first\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.runtimeconfig.json
+D:\codes\work\first\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.dll
+D:\codes\work\first\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.pdb
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.AssemblyInfo.cs
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.dll
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\refint\LabSeven.dll
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.pdb
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.genruntimeconfig.cache
+D:\codes\work\first\LabSeven\LabSeven\obj\Debug\net6.0\ref\LabSeven.dll
